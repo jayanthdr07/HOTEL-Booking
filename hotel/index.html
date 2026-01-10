@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Hotels India - Vacation Planner</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Page 1: City Selection -->
+        <section id="page1" class="active">
+            <h1>Hotels India</h1>
+            <div class="info">
+                Discover the finest hotels across major Indian cities. Select a city to explore luxury and budget options.
+            </div>
+            <label for="city-select">Select Your City Destination:</label>
+            <select id="city-select">
+                <option value="" selected disabled>Select city</option>
+                <option value="Bangalore">Bangalore</option>
+                <option value="Pune">Pune</option>
+                <option value="Hyderabad">Hyderabad</option>
+            </select>
+            <div class="image-container">
+                <img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80" alt="Hotel Illustration" />
+            </div>
+        </section>
+
+        <!-- Page 2: Hotel Listing -->
+        <section id="page2">
+            <button class="back-btn" id="back-to-page1">&larr; Back to City Selection</button>
+            <h2 id="city-header"></h2>
+
+            <div class="hotels-section">
+                <h3>Luxury Retreats (?6000+ per night)</h3>
+                <div id="expensive-hotels" class="hotel-list"></div>
+            </div>
+
+            <div class="hotels-section">
+                <h3>Comfortable Stays (?2000 to ?5999 per night)</h3>
+                <div id="budget-hotels" class="hotel-list"></div>
+            </div>
+        </section>
+
+        <!-- Page 3: Hotel Details & Booking -->
+        <section id="page3">
+            <button class="back-btn" id="back-to-page2">&larr; Back to Hotels</button>
+            <h2 id="hotel-name"></h2>
+            <img id="hotel-main-image" alt="Hotel main image" />
+
+            <h3>Room Types</h3>
+            <div class="rooms" id="room-types"></div>
+
+            <div class="hotel-contact" id="hotel-contact"></div>
+
+            <h3>Book Your Room</h3>
+            <form id="booking-form">
+                <label for="room-select">Select Room Type</label>
+                <select id="room-select" required>
+                    <option value="" disabled selected>-- Choose a Room --</option>
+                </select>
+
+                <label for="nights-input">Number of Nights</label>
+                <input type="number" id="nights-input" min="1" max="30" value="1" required />
+
+                <label for="name-input">Your Name</label>
+                <input type="text" id="name-input" placeholder="Enter your name" required />
+
+                <label for="email-input">Email</label>
+                <input type="email" id="email-input" placeholder="Enter your email" required />
+
+                <label for="phone-input">Phone Number</label>
+                <input type="tel" id="phone-input" placeholder="10 digit phone number" required pattern="[0-9]{10}" />
+
+                <input type="submit" value="Book Now" />
+            </form>
+        </section>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
