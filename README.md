@@ -37,6 +37,11 @@ hotels-booking/
 - **Unsplash Images** – Realistic hotel images
 
 ---
+### Screenshots
+
+##Home page
+[!Home](homes.png)
+
 💡 Author
 
 *JAYANTH D R*
