@@ -40,7 +40,7 @@ hotels-booking/
 ##  Screenshots
 
 ### Home Screen
-![Home Screen](home.png)
+![Home Screen](homes.png)
 
 💡 Author
 
