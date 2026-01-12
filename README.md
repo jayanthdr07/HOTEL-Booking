@@ -37,6 +37,38 @@ hotels-booking/
 - **Unsplash Images** – Realistic hotel images
 
 ---
+🧭 How It Works
+
+User selects a city (Bangalore, Pune, or Hyderabad)
+
+Available Luxury & Budget hotels are displayed dynamically
+
+Clicking a hotel shows:
+
+Pricing & room details
+
+Contact information
+
+Address
+
+User fills the booking form to simulate a hotel reservation
+
+✨ Highlights
+
+🌍 City-based hotel filtering
+
+🏨 Realistic hotel images for better UX
+
+📱 Fully responsive layout
+
+📝 Interactive booking form
+
+⚡ Fast & lightweight (no backend required)
+
+🧪 Sample Use Case
+
+A user planning a vacation can compare hotels across cities, check pricing and contact details, and simulate booking—all from a single interface.
+
 ##  Screenshots
 
 ### Home Screen
