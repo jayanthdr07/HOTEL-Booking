@@ -74,6 +74,33 @@ A user planning a vacation can compare hotels across cities, check pricing and c
 ### Home Screen
 ![Home Screen](homes.png)
 
+
+
+🌱 Future Enhancements
+
+🔐 User login & authentication
+
+🗓 Date-based booking availability
+
+💳 Payment gateway integration
+
+🗺 Google Maps integration for hotel locations
+
+🧾 Booking confirmation page
+
+🏷 Price filters & ratings
+
+📌 Learning Outcomes
+
+DOM manipulation using JavaScript
+
+Responsive design using CSS Flexbox/Grid
+
+Handling user interactions and form data
+
+Structuring a frontend web project
+
+Using real-world images for better UI design
 💡 Author
 
 *JAYANTH D R*
