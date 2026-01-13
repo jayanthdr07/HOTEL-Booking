@@ -37,7 +37,7 @@ hotels-booking/
 - **Unsplash Images** – Realistic hotel images
 
 ---
-🧭 How It Works
+## 🧭 How It Works
 
 User selects a city (Bangalore, Pune, or Hyderabad)
 
@@ -90,7 +90,7 @@ A user planning a vacation can compare hotels across cities, check pricing and c
 
 🏷 Price filters & ratings
 
-📌 Learning Outcomes
+## 📌 Learning Outcomes
 
 DOM manipulation using JavaScript
 
@@ -102,7 +102,7 @@ Structuring a frontend web project
 
 Using real-world images for better UI design
 
-💡 Author
+## 💡 Author
 
 *JAYANTH D R*
 
