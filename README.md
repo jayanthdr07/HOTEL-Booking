@@ -104,7 +104,7 @@ Using real-world images for better UI design
 
 ## 💡 Author
 
-*JAYANTH D R*
+**JAYANTH D R**
 
 
 
