@@ -9,7 +9,7 @@ A responsive web application to explore and book hotels across major Indian citi
 
 - Select a city (Bangalore, Pune, Hyderabad) to explore hotels.
 - Browse **Luxury** and **Budget** hotels with real images.
-- View detailed hotel information.
+- View detailed hotel information
   - Room types and pricing
   - Contact details (email, phone, website)
   - Address
