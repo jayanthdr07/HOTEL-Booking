@@ -5,7 +5,7 @@ A responsive web application to explore and book hotels across major Indian citi
 
 ---
 
-## 🌆 Features.
+## 🌆 Features
 
 - Select a city (Bangalore, Pune, Hyderabad) to explore hotels.
 - Browse **Luxury** and **Budget** hotels with real images.
