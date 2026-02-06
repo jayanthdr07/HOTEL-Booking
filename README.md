@@ -1,4 +1,4 @@
-dfghjdfghuidfghji
+dfghjdfghuidfghjidfghj
 # 🏨 Hotels India - Vacation Planner
 
 A responsive web application to explore and book hotels across major Indian cities. Discover luxury and budget hotels, view detailed hotel information, and book your stay—all in one place. Built with **HTML**, **CSS**, and **JavaScript**, featuring real hotel images for an immersive experience.
